@@ -61,10 +61,6 @@ This is a simple console-based Voting System implemented in **Java**. It allows 
 - Implement database integration for data persistence.
 - Add real-time vote count updates.
 
-## License
-This project is open-source. You are free to use and modify it.
 
-## Contact
-For any issues or contributions, feel free to contact the developer.
 
-3. Add real-time vote count updates.
+
